@@ -1,2 +1,2 @@
 # physec2024
-Lienes pirmie soļi ar pitonu
+Lienes pirmie soļi draudzībā ar pitonu
