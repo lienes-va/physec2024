@@ -1,2 +1,3 @@
 # physec2024
-Lienes pirmie soļi draudzībā ar pitonu
+
+A repository for ViA course Python for security engineers
